@@ -21,7 +21,7 @@ Welcome to my **Advent of Code 2024** solutions repository! Advent of Code is an
 
 ## Puzzle Progress
 
-- [x] Day 1
+- ✅ Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
